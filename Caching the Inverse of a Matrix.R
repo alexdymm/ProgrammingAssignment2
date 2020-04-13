@@ -67,4 +67,6 @@ cacheSolve <- function(xMat= m(), ...) {
     m # return the inverse
   }
   # End
+  
+  SHA-1 7f64441b96a329acdf0c6c23ed3c80a25d32739c
 }
